@@ -1,4 +1,4 @@
-# battlemap-generator
+# WIP - battlemap-generator
 
 ## Project setup
 ```
